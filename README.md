@@ -6,7 +6,7 @@ It is chat messaging app created with react.js and readx.js , firebase to handel
   src="./public/header.PNG"
   alt="headphones"
   title="headphones"
-  style="display: inline-block; margin: 0 auto; max-width: 300px"
+  style="display: inline-block; margin: 0 auto; max-width: 300px height="200px"
 />
 
 ## Live Demo:
