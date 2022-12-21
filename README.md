@@ -2,13 +2,6 @@
 # WhatsApp Clone
 It is chat messaging app created with react.js and readx.js , firebase to handel google authanication,  database and create rooms for chat with friends and use css to style.
 
-<img
-  src="./public/header.PNG"
-  alt="headphones"
-  title="headphones"
-  style="display: inline-block; margin: 0 auto; max-width: 300px; height=50px"
-/>
-
 ## Live Demo:
    - Hosting URL: https://whatsapp-clone-30ea1.web.app 
 
